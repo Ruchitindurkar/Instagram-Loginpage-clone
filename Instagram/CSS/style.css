@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Hanalei+Fill&family=Kranky&family=Lobster&family=Pinyon+Script&family=UnifrakturMaguntia&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: #000;
+    color: #fff;
+
+
+
+
+
+}
+
+.conatiner {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.left {
+    height: 100vh;
+    width: 50vw;
+    /* background: lightblue; */
+}
+
+.imgContainer{
+    position: relative;
+    top: 10%;
+    left: 30%;
+   
+}
+
+.right {
+    height: 100vh;
+    width: 50vw;
+    /* background: lightcoral; */
+}
+
+.box1{
+    /* border: 1px solid #ccc; */
+    height: 50vh;
+    width: 25vw;
+    position: relative;
+    top: 15%;
+
+}
+
+h1{
+    /* font-family: "Borel", cursive;
+    font-weight: bolder; */
+    letter-spacing: -2px;
+    font-size: 45px;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    font-style: normal;
+
+}
+.input1{
+    position: relative;
+    left: 85px;
+    padding: 5px 5px;
+
+}
+.btn{
+    border: none;
+    outline: none;
+    position: relative;
+    left: 15%;
+    top: 8px;
+    background: blue;
+    color: white;
+    padding: 10px 110px;
+    border-radius: 8px;
+}
+.orbtn{
+    position: relative;
+    left: 45%;
+    top: 25px;
+    font-weight: normal;
+    font-size: 15px;
+    
+}
+.loginfac{
+    position: relative;
+    top: 35px;
+    left: 120px;
+    color: blue;
+}
+.loginfac:hover{
+    background: rgb(128, 44, 44);
+}
+.fac{
+    color: aliceblue;
+}
+.icons{
+  position: relative;
+  left: 80px;
+  top: 10px;
+}
+.Forgot{
+    position: relative;
+    left: 115px;
+    top: 25px;
+}
+
+input{
+    padding: 10px 2px;
+    width: 15vw;
+    position: relative;
+    right: 25px;
+    
+}
+.box2{
+    /* border: 1px solid #ccc; */
+    position: relative;
+    top: 65px;  
+    padding: 5px 5px;
+    /* width: 40px; */
+    height: 40px;
+
+    
+}
+.sss{
+    position: relative;
+    left: 85px;
+    top: 10px;
+    
+}
+.sig{
+    position: relative;
+    left: 240px;
+    bottom: 8px;
+    color: blue;
+}
+.getapk{
+    position: relative;
+    top: 30px;
+    left: 35%;
+    
+}
+.leftplay{
+    border: 1px solid gray;
+    width: 150px;
+    position: relative;
+    top: 51px;
+    height: 40px;
+    left: 45px;
+    border-radius: 8px;
+}
+.rightplay{
+    border: 1px solid gray;
+    width: 140px;
+    height: 40px;   
+    left: 220px;
+    position: relative;
+    bottom: 40px;
+    /* border-radius: 8px; */
+    
+}
+.wrplay{
+    font-size: 10px;
+    position: relative;
+    left: 27%;
+    top: 15px;
+}
+.gpp{
+    position: relative;
+    left: 100px;
+    top: 1px;
+}
+.imgplay{
+    position: relative;
+    left: 5px;
+}
+.mcply{
+    position: relative;
+    left: 5px;
+    
+}
+.mcpar{
+    position: relative;
+    left: 60px;
+    bottom: 45px;
+    font-size: 15px;
+}
+.mpp{
+    position: relative;
+    left: 60px;
+    bottom: 60px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: relative;
+    right: 180px;
+    bottom: 35px;
+    list-style: none;
+    white-space: nowrap;
+}
+.meop{
+    position: relative;
+    right: 160%;
+    white-space: nowrap;
+    bottom: 20px;
+}
